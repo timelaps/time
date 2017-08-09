@@ -1,0 +1,21 @@
+{
+  "name": "@timelaps/time",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "share": "npm version patch && git push && npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timelaps/time.git"
+  },
+  "keywords": [],
+  "author": "Michael McLaughlin <michael.j.mclaughlin20@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timelaps/time/issues"
+  },
+  "homepage": "https://github.com/timelaps/time#readme"
+}
