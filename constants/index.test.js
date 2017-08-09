@@ -1,6 +1,6 @@
 var b = require('@timelaps/batterie');
 var constants = require('.');
-var forOwn = require('@timelaps/object/for/own');
+var forOwn = require('@timelaps/n/for/own');
 b.describe('constants', function () {
     b.expect(constants).toBeObject();
     b.it('only has numbers', function (t) {
