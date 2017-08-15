@@ -23,10 +23,11 @@
     "@timelaps/object": "^1.0.20"
   },
   "dependencies": {
+    "@timelaps/array": "^1.0.10",
     "@timelaps/fn": "^1.0.11",
-    "@timelaps/is": "^1.0.12",
-    "@timelaps/n": "^1.0.24",
-    "@timelaps/string": "^1.0.1",
-    "@timelaps/to": "^1.0.6"
+    "@timelaps/is": "^1.0.13",
+    "@timelaps/n": "^1.0.25",
+    "@timelaps/string": "^1.0.2",
+    "@timelaps/to": "^1.0.7"
   }
 }
